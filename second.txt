@@ -1,0 +1,2 @@
+this is also the first line of second txt file
+new line added
